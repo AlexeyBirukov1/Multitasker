@@ -1,0 +1,9 @@
+fastapi~=0.115.11
+sqlalchemy~=2.0.38
+psycopg2-binary
+python-jose[cryptography]~=3.4.0
+passlib[bcrypt]~=1.7.4
+python-dotenv
+pydantic[email]~=2.10.6
+uvicorn
+starlette~=0.46.0
